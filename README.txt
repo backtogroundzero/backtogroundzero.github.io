@@ -1,16 +1,12 @@
 
 TITLE: 
-Present - 100% Fully Responsive Free HTML5 Bootstrap Template
+Back To Ground Zero
 
-AUTHOR:
+TEMPLATE BY:
 DESIGNED & DEVELOPED by FreeHTML5.co
 
 EDITED BY:
 ADRIENNE SHUM
-
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
 
 
 CREDITS:
